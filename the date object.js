@@ -1,0 +1,11 @@
+var mybirthDate = new Date(2004,11,20,7,30,45);
+var mycurrentDate = new Date(2024,8,16,10,33,45);
+console.log(mybirthDate);
+console.log(mycurrentDate);
+console.log(mybirthDate.getFullYear());
+console.log(mybirthDate.getMonth());
+console.log(mybirthDate.getDate());
+console.log(mybirthDate.getHours());
+console.log(mybirthDate.getMinutes());
+console.log(mybirthDate.getSeconds());
+console.log(mybirthDate.getTime());
